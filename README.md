@@ -1,10 +1,8 @@
+![Tahmid Banner](https://github.com/user-attachments/assets/34183fa8-464e-4ba2-b0b8-2669d56851eb)
+
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFC20E&center=true&vCenter=true&width=550&lines=..Hey👋,+I'm+Tahmid+..;" alt="Typing SVG"/></h1>
 </div>
-
-![Tahmid Banner](https://github.com/user-attachments/assets/34183fa8-464e-4ba2-b0b8-2669d56851eb)
-
-
 
 # 💫 About Me:
 Hello, I'm Tahmid<br>A skilled MERN stack web developer. With a passion for creating seamless digital experiences, I specialize in crafting efficient and user friendly applications. My expertise spans Html5, CSS3, Tailwind, Javascript, ES6, React Router, React.js, Node.js, Express.js, MongoDB, allowing me to deliver end-to-end solutions. I thrive on challenges, continuously learn, and am committed to turning your ideas into powerful online realities. Let's collaborate and build something extraordinary.
