@@ -1,6 +1,7 @@
 
 
-![Tahmid Banner](https://github.com/user-attachments/assets/f75afc6b-049a-421d-8cd7-7d8c9b71067d)
+![Tahmid Banner](https://github.com/user-attachments/assets/34183fa8-464e-4ba2-b0b8-2669d56851eb)
+
 
 
 # 💫 About Me:
