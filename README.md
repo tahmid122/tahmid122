@@ -21,7 +21,7 @@ Hello, I'm Tahmid<br>A skilled MERN stack web developer. With a passion for crea
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahmid122&theme=dark&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies:
+# 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=tahmid122&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ---
