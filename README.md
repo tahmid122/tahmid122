@@ -7,6 +7,10 @@
 # 💫 About Me:
 Hello, I'm Tahmid<br>A skilled MERN stack web developer. With a passion for creating seamless digital experiences, I specialize in crafting efficient and user friendly applications. My expertise spans Html5, CSS3, Tailwind, Javascript, ES6, React Router, React.js, Node.js, Express.js, MongoDB, allowing me to deliver end-to-end solutions. I thrive on challenges, continuously learn, and am committed to turning your ideas into powerful online realities. Let's collaborate and build something extraordinary.
 
+<div align="center">
+<span align="center"> <img src="https://komarev.com/ghpvc/?username=yasin-hasan2&label=Profile%20views&color=0e75b6&style=flat" alt="yasinhasan" /> </span>
+</div>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TahmidAlamJG) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmidalam122/) 
