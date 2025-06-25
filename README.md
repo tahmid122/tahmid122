@@ -1,4 +1,6 @@
-
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFC20E&center=true&vCenter=true&width=550&lines=..Hey👋,+I'm+Tahmid+..;" alt="Typing SVG"/></h1>
+</div>
 
 ![Tahmid Banner](https://github.com/user-attachments/assets/34183fa8-464e-4ba2-b0b8-2669d56851eb)
 
