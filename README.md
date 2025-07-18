@@ -1,4 +1,4 @@
-![Purple Abstract Graphic Design LinkedIn Article Cover Image (1)](https://github.com/user-attachments/assets/68692d2a-2157-49c0-89c9-7bcd1dbae3ba)
+<img width="1584" height="396" alt="linkedinbackground2" src="https://github.com/user-attachments/assets/077dd609-4974-49cc-967d-b5bb9bffd2b0" />
 
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFA500&center=true&vCenter=true&width=550&lines=..Hey👋,+I'm+Tahmid+..;" alt="Typing SVG"/></h1>
