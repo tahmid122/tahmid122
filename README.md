@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-<h3 align="center">A passionate Front-end | React developer from Bangladesh</h3>
+<h3 align="center">A MERN Stack | Frontend developer from Bangladesh</h3>
 Hello There,<br>
 With a passion for creating seamless digital experiences, I specialize in crafting efficient and user friendly applications. My expertise spans Html5, CSS3, Tailwind, Javascript, ES6, React Router, React.js, Node.js, Express.js, MongoDB, allowing me to deliver end-to-end solutions. I thrive on challenges, continuously learn, and am committed to turning your ideas into powerful online realities. Let's collaborate and build something extraordinary.
 
