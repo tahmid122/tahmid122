@@ -15,7 +15,7 @@ With a passion for creating seamless digital experiences, I specialize in crafti
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TahmidAlamJG) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmidalam122/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtahmidalam/) 
 
 [![Tahmid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahmid122&theme=react-dark)](https://github.com/tahmid122/github-readme-activity-graph)
 
