@@ -37,9 +37,29 @@ With a passion for creating seamless digital experiences, I specialize in crafti
 
 [![Tahmid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahmid122&theme=react-dark)](https://github.com/tahmid122/github-readme-activity-graph)
 
+<!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=flat&logo=typescript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![php](https://img.shields.io/badge/php-%23323330.svg?style=flat&logo=php&logoColor=#474A8A) ![mySQL](https://img.shields.io/badge/mysql-%230077C0.svg?style=flat&logo=mysql&logoColor=white)
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=javascript,php)](https://github.com/tahmid122)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui)](https://github.com/tahmid122)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/tahmid122)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/tahmid122)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/tahmid122)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/tahmid122)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)](https://github.com/tahmid122)
 
 ## 📊 GitHub Stats:
 <div >
