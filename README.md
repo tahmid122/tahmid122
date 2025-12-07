@@ -4,6 +4,18 @@
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFA500&center=true&vCenter=true&width=550&lines=..Hey👋,+I'm+Tahmid+..;" alt="Typing SVG"/></h1>
 </div>
 
+<!--- about --->
+- 👋 Hi, I’m **[@Tahmid Alam](https://github.com/tahmid122)**
+- 🖥️ I’m currently working on **React.js, Next.js** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, PHP, MySQL** for the backend.
+- 🛠️ I’m currently learning **Next.js**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, MySQL)**.
+- 🌐 Explore My Portfolio **[TahmidAlam](https://tahmidalam.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1huYnv4j22s0JGOymM0XIhUPuUjpo_UMi/view?usp=sharing)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/mdtahmidalam/)**
+- 📫 Feel free to reach me out **[Email](mdtahmidalam122@gmail.com)**
+  
+<br/>
+
 # 💫 About Me:
 <h3 align="center">A MERN Stack | Frontend developer</h3>
 Hello There,<br>
