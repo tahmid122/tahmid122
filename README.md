@@ -2,6 +2,7 @@
 
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFA500&center=true&vCenter=true&width=550&lines=..Hey👋,+I'm+Tahmid+..;" alt="Typing SVG"/></h1>
+    <h3 align="center">A MERN Stack | Frontend developer</h3>
 </div>
 
 <!--- about --->
@@ -16,13 +17,8 @@
   
 <br/>
 
-# 💫 About Me:
-<h3 align="center">A MERN Stack | Frontend developer</h3>
-Hello There,<br>
-With a passion for creating seamless digital experiences, I specialize in crafting efficient and user friendly applications. My expertise spans Html5, CSS3, Tailwind, JavaScript, TypeScript,  ES6, React Router, React.js, Next.js, Node.js, Express.js, MongoDB, PHP, MySQL allowing me to deliver end-to-end solutions. I thrive on challenges, continuously learn, and am committed to turning your ideas into powerful online realities. Let's collaborate and build something extraordinary.
-
-<div align="center">
-<span align="center"> <img src="https://komarev.com/ghpvc/?username=yasin-hasan2&label=Profile%20views&color=0e75b6&style=flat" alt="yasinhasan" /> </span>
+<div align="left">
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=tahmid122&label=Profile%20views&color=0e75b6&style=flat" alt="tahmid122" /> </span>
 </div>
 
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON:</b>
