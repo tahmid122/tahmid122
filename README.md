@@ -12,7 +12,7 @@
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, MySQL)**.
 - 🌐 Explore My Portfolio **[TahmidAlam](https://tahmidalam.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1huYnv4j22s0JGOymM0XIhUPuUjpo_UMi/view?usp=sharing)**
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/mdtahmidalam/)**
-- 📫 Feel free to reach me out **[Email](mdtahmidalam122@gmail.com)**
+- 📫 Feel free to reach me out **[mdtahmidalam122@gmail.com](mdtahmidalam122@gmail.com)**
   
 <br/>
 
