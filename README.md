@@ -25,9 +25,15 @@ With a passion for creating seamless digital experiences, I specialize in crafti
 <span align="center"> <img src="https://komarev.com/ghpvc/?username=yasin-hasan2&label=Profile%20views&color=0e75b6&style=flat" alt="yasinhasan" /> </span>
 </div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TahmidAlamJG) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdtahmidalam/) 
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON:</b>
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/mdtahmidalam/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="tahmid122" height="30" width="40" /></a>
+  </p>
+</div>
+
+
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 [![Tahmid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahmid122&theme=react-dark)](https://github.com/tahmid122/github-readme-activity-graph)
 
