@@ -37,7 +37,7 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=javascript,php)](https://github.com/tahmid122)
+[![Languages](https://skillicons.dev/icons?i=javascript,typescript,php)](https://github.com/tahmid122)
 
 ### CSS Frameworks & Libraries:
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui)](https://github.com/tahmid122)
