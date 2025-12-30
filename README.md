@@ -7,9 +7,9 @@
 
 <!--- about --->
 - 👋 Hi, I’m **[@Tahmid Alam](https://github.com/tahmid122)**
-- 🖥️ I’m currently working on **React.js, Next.js** for frontend development.
+- 🖥️ I’m currently working on **TypeScript, React.js, Next.js** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, PHP, MySQL** for the backend.
-- 🛠️ I’m currently learning **Next.js, TypeScript**.
+- 🛠️ I’m currently learning **---**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, MySQL)**.
 - 🌐 Explore My Portfolio **[TahmidAlam](https://tahmidalam.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1huYnv4j22s0JGOymM0XIhUPuUjpo_UMi/view?usp=sharing)**
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/mdtahmidalam/)**
