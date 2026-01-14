@@ -11,7 +11,7 @@
 - 🗄️ Using **Node.js, Express.js, MongoDB, PHP, MySQL** for the backend.
 - 🛠️ I’m currently learning **---**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, MySQL)**.
-- 🌐 Explore My Portfolio **[TahmidAlam](https://tahmidalam.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1huYnv4j22s0JGOymM0XIhUPuUjpo_UMi/view?usp=sharing)**
+- 🌐 Explore My Portfolio **[TahmidAlam](https://tahmidalam.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1yUS6sSMX7vbd8Vpk94JhZUTFMfZG1NYd/view)**
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/mdtahmidalam/)**
 - 📫 Feel free to reach me out **[mdtahmidalam122@gmail.com](mdtahmidalam122@gmail.com)**
   
