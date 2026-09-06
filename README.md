@@ -11,7 +11,7 @@
 - 🗄️ Using **Node.js, Express.js, MongoDB, PHP, MySQL, Prisma ORM, Postgresql** for the backend.
 - 🛠️ I’m currently learning **---**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, MySQL, Postgresql)**.
-- 🌐 Explore My Portfolio **[TahmidAlam](https://tahmidalam.vercel.app/)** and My **[Resume]([https://drive.google.com/file/d/1yUS6sSMX7vbd8Vpk94JhZUTFMfZG1NYd/view](https://drive.google.com/file/d/1wwLkIv-xClr1Fa9H5qrLGto8pWNN3WXS/view?usp=sharing))**
+- 🌐 Explore My Portfolio **[TahmidAlam](https://tahmidalam.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1wwLkIv-xClr1Fa9H5qrLGto8pWNN3WXS/view?usp=sharing)**
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/mdtahmidalam/)**
 - 📫 Feel free to reach me out **[mdtahmidalam122@gmail.com](mdtahmidalam122@gmail.com)**
   
