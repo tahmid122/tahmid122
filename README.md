@@ -8,10 +8,10 @@
 <!--- about --->
 - 👋 Hi, I’m **[@Tahmid Alam](https://github.com/tahmid122)**
 - 🖥️ I’m currently working on **TypeScript, React.js, Next.js** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB, PHP, MySQL** for the backend.
+- 🗄️ Using **Node.js, Express.js, MongoDB, PHP, MySQL, Prisma ORM, Postgresql** for the backend.
 - 🛠️ I’m currently learning **---**.
-- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, MySQL)**.
-- 🌐 Explore My Portfolio **[TahmidAlam](https://tahmidalam.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1yUS6sSMX7vbd8Vpk94JhZUTFMfZG1NYd/view)**
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, MySQL, Postgresql)**.
+- 🌐 Explore My Portfolio **[TahmidAlam](https://tahmidalam.vercel.app/)** and My **[Resume]([https://drive.google.com/file/d/1yUS6sSMX7vbd8Vpk94JhZUTFMfZG1NYd/view](https://drive.google.com/file/d/1wwLkIv-xClr1Fa9H5qrLGto8pWNN3WXS/view?usp=sharing))**
 - 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/mdtahmidalam/)**
 - 📫 Feel free to reach me out **[mdtahmidalam122@gmail.com](mdtahmidalam122@gmail.com)**
   
@@ -43,10 +43,10 @@
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui)](https://github.com/tahmid122)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/tahmid122)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express,prisma)](https://github.com/tahmid122)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/tahmid122)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)](https://github.com/tahmid122)
 
 ### Deployment Platform:
 [![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/tahmid122)
