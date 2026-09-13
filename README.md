@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="linkedinbackground2" src="https://github.com/user-attachments/assets/077dd609-4974-49cc-967d-b5bb9bffd2b0" />
+<!-- <img width="1584" height="396" alt="linkedinbackground2" src="https://github.com/user-attachments/assets/077dd609-4974-49cc-967d-b5bb9bffd2b0" /> -->
+<img width="2056" height="765" alt="ChatGPT Image Sep 13, 2026, 11_30_07 AM" src="https://github.com/user-attachments/assets/8aa4fdd2-daf9-468b-8eae-b694b51f398a" />
 
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFA500&center=true&vCenter=true&width=550&lines=..Hey👋,+I'm+Tahmid+..;" alt="Typing SVG"/></h1>
