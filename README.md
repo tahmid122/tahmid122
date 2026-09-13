@@ -3,7 +3,7 @@
 
 <div align="center">
     <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=8000&color=FFA500&center=true&vCenter=true&width=550&lines=..Hey👋,+I'm+Tahmid+..;" alt="Typing SVG"/></h1>
-    <h3 align="center">A MERN Stack | Frontend developer</h3>
+    <h3 align="center">Full-Stack Developer | Frontend Developer</h3>
 </div>
 
 <!--- about --->
@@ -32,7 +32,7 @@
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-[![Tahmid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahmid122&theme=react-dark)](https://github.com/tahmid122/github-readme-activity-graph)
+<!---[![Tahmid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahmid122&theme=react-dark)](https://github.com/tahmid122/github-readme-activity-graph) --->
 
 <!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
